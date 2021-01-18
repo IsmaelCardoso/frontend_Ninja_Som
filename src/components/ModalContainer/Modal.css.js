@@ -60,9 +60,8 @@ export const StandardAdCard = styled.div`
 
     svg {
       margin: 4px 0 0 4px;
-      color:
-    }
-  }
+    };
+  };
 `;
 
 export const AdTitle = styled.div`

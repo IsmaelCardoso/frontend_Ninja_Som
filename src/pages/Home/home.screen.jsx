@@ -202,6 +202,10 @@ const Home = () => {
 
   const handleListProducts = useCallback(async () => {
     const response = await api.get('produtos.json');
+
+    if (response) {
+      setProducts(response);
+    }
   }, []);
 
   useEffect(() => {

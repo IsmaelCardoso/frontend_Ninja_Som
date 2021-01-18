@@ -37,9 +37,9 @@ const ButtonStandard = styled.button`
   ${props => props?.width && `width: ${props.width}`};
 
   &:hover {
-  border-radius: 2px 2px;
-  background: ${shade(0.1, 'rgba(112, 112, 112, 0.4)')};
-};
+    border-radius: 2px 2px;
+    background: ${shade(0.1, 'rgba(112, 112, 112, 0.4)')};
+  };
 `
 
 export default ButtonStandard;

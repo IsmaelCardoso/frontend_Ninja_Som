@@ -209,14 +209,6 @@ export const AdsContainer = styled.div`
   align-items: center;
   justify-content: space-around;
 
-  /* img {
-    transition: 0.2s;
-
-    &:hover {
-    transform: translateY(-25px);
-    };
-  } */
-
   button {
     border: none;
     background: transparent;

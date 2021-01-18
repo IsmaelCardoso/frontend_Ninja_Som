@@ -6,12 +6,12 @@ export default createGlobalStyle`
   padding: 0;
   outline: 0;
   box-sizing: border-box;
-}
+};
 
 body {
   background: #FFFFFF;
   -webkit-font-smoothing: analiased;
-}
+};
 
 body, input, button, span, strong {
   font-family: Lato, sans-serif;
@@ -19,13 +19,13 @@ body, input, button, span, strong {
   color: #041E50;
   font-weight: 400;
   letter-spacing: 0.6px;
-}
+};
 
 #root {
   margin: 0 auto;
-}
+};
 
 button {
   cursor: pointer;
-}
+};
 `

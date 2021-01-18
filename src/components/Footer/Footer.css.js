@@ -133,7 +133,7 @@ export const Form = styled.form`
 
     &::placeholder {
       color: #041E50;
-    }
+    };
 
     & + input {
       margin-top: 10px;
