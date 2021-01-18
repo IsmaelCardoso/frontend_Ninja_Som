@@ -9,7 +9,7 @@ Installation
 $ Yarn
 
 Running the app
-# build tsc
+# build js
 $ yarn build
 
 # development
